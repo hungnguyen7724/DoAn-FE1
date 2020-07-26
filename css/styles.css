@@ -10,7 +10,7 @@
     color:#23C6EA;
 }
 .top-header {
-    background-image: url(../images/nền.jpg);
+    background-image: url(./images/nền.jpg);
     background-size: cover;
     font-size: 30px; 
     text-align: center;
@@ -45,7 +45,7 @@
 }
 /*Banner*/
 .banner .row {
-    background: url(../images/bg-on.jpg)
+    background: url(./images/bg-on.jpg)
 }
 .row {
     margin-left: -15px;
